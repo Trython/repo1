@@ -2,3 +2,4 @@ HOW TO:
 
 Git fetch
 Git pull
+Git rebase

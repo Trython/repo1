@@ -7,4 +7,4 @@
  * To change this template use File | Settings | File Templates.
  */
 echo 'Hello world!';
-echo "Just an example";
+echo "Just an oosom example!";

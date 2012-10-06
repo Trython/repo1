@@ -1,5 +1,5 @@
 HOW TO:
-Git ruless!!!
+Test
 Git fetch
 Git pull
-Git merge
+Git rebase

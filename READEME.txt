@@ -2,4 +2,4 @@ HOW TO:
 
 Git fetch
 Git pull
-Git rebase
+Git merge

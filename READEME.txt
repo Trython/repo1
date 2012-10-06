@@ -1,1 +1,4 @@
-Read this file!
+HOW TO:
+
+Git fetch
+Git pull

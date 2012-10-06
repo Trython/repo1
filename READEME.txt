@@ -1,5 +1,5 @@
 HOW TO:
-
+Git ruless!!!
 Git fetch
 Git pull
 Git merge

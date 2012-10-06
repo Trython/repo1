@@ -6,5 +6,5 @@
  * Time: 22:05
  * To change this template use File | Settings | File Templates.
  */
-echo 'Hello world!;
-echp 'Another example';
+echo 'Hello world!';
+echo "Just an example";
